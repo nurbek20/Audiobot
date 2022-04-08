@@ -6,7 +6,7 @@ from datetime import datetime
 now = datetime.now()
 
 
-token='5226178173:AAH7-iG6-3rId1cvuvSSlHkb2E0xYH87Lm0'
+token='5114465814:AAGqzuME2LvZyj-riI-r6_Ao3dPWIWpHXDY'
 
 bot = telebot.TeleBot(token=token)
 @bot.message_handler(commands=['start'])
